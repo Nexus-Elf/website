@@ -4,3 +4,4 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Nexus-Elf/website)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nexus-Elf/website?label=Repo%20Size)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Nexus-Elf/website?label=Total%20Lines%20Of%20Code)
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=Deactivated&label=Website%20Status&up_color=green&up_message=Activated&url=https%3A%2F%2Fdamiansbirthday.netlify.app)
